@@ -18,7 +18,7 @@ Esta API desarrollada en Flask permite gestionar una base de datos de Pokémon h
 ```bash
 pip install flask
 ```
-3. Crea la base de datos SQLite y la tabla pokemon si aún no existe. Has uso del archivo ```dump.sql```:
+3. Crea la base de datos SQLite y la tabla pokemon si aún no existe. En dado caso has uso del archivo ```dump.sql``` y algún software cliente de SQL, recomiendo [DBeaver](https://dbeaver.io/download/).
 
 4. Guarda la base de datos en una carpeta llamada ```database``` con el nombre pokedb en el directorio raíz del proyecto.
 
